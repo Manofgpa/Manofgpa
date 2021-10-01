@@ -4,7 +4,7 @@
 
 
 
-**# Hi there! <**img src="https://github.com/Manofgpa/Manofgpa/blob/21ba3cb7328259ff6bb1e5b583fec8b40dae7d7e/wave.gif?raw=true" width="30px">
+**# Hi there! ** <img src="https://github.com/Manofgpa/Manofgpa/blob/21ba3cb7328259ff6bb1e5b583fec8b40dae7d7e/wave.gif?raw=true" width="30px">
 
 
 
@@ -12,7 +12,7 @@ My name is **Felipe Mano**, a passionate software developer from Brazil. I love 
 
 
 
-\- 🔭 I’m currently working on [Ignews][https://github.com/Manofgpa/ignews]
+\- 🔭 I’m currently working on [Ignews](https://github.com/Manofgpa/ignews)
 
 \- 🌱 I’m currently learning everything 🤣
 
