@@ -1,6 +1,6 @@
 [![Header](https://github.com/Manofgpa/Manofgpa/raw/61ab25bc290d829618079475fdc1b41445d7b5fc/header.jpg 'Header')](https://felipemano.dev/)
 
-​ <a href="https://www.linkedin.com/in/felipemano/" rel="nofollow"><img align='center' height="30" src="https://raw.githubusercontent.com/Manofgpa/Manofgpa/54116c30e33621ed85da642674295c96ddedf783/linkedin.png" style="max-width: 100%;"></a><a href="https://instagram.com/manofgpa" rel="nofollow"><img height="30" src="https://raw.githubusercontent.com/Manofgpa/Manofgpa/main/instagram.jpg" style="max-width: 100%;"></a>
+​ <a align='center' href="https://www.linkedin.com/in/felipemano/" rel="nofollow"><img height="30" src="https://raw.githubusercontent.com/Manofgpa/Manofgpa/54116c30e33621ed85da642674295c96ddedf783/linkedin.png" style="max-width: 100%;"></a><a href="https://instagram.com/manofgpa" rel="nofollow"><img height="30" src="https://raw.githubusercontent.com/Manofgpa/Manofgpa/main/instagram.jpg" style="max-width: 100%;"></a>
 
 #Hi there! <img src="https://github.com/Manofgpa/Manofgpa/blob/21ba3cb7328259ff6bb1e5b583fec8b40dae7d7e/wave.gif?raw=true" width="30px">
 
