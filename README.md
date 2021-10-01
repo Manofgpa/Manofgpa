@@ -1,9 +1,9 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/manofgpa/manofgpa/header.jpg 'Header')](https://felipemano.dev/)
 
+# Hi there! <img src="https://raw.githubusercontent.com/manofgpa/manofgpa/master/wave.gif" width="30px">
 
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Felipe Mano and I'm a software developer. I'm from Rio de Janeiro, Brazil. You can find me on <img src="https://raw.githubusercontent.com/manofgpa/manofgpa/master/wave.gif" width="30px"><a href="https://www.linkedin.com/in/felipemano"/></img>
 
-My name is Felipe Mano and I'm a software developer. I'm from Rio de Janeiro, Brazil. You can find me on 
 <!--
 **Manofgpa/Manofgpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
