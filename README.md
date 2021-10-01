@@ -2,7 +2,7 @@
 
 ​ <a href="https://www.linkedin.com/in/felipemano/" rel="nofollow"><img align='center' height="30" src="https://raw.githubusercontent.com/Manofgpa/Manofgpa/54116c30e33621ed85da642674295c96ddedf783/linkedin.png" style="max-width: 100%;"></a><a href="https://instagram.com/manofgpa" rel="nofollow"><img height="30" src="https://raw.githubusercontent.com/Manofgpa/Manofgpa/main/instagram.jpg" style="max-width: 100%;"></a>
 
-<h2>Hi there!<h2> <img src="https://github.com/Manofgpa/Manofgpa/blob/21ba3cb7328259ff6bb1e5b583fec8b40dae7d7e/wave.gif?raw=true" width="30px">
+#Hi there! <img src="https://github.com/Manofgpa/Manofgpa/blob/21ba3cb7328259ff6bb1e5b583fec8b40dae7d7e/wave.gif?raw=true" width="30px">
 
 My name is **Felipe Mano**, a passionate software developer from Brazil. I love to learn about new technologies and share as much as possible. I'm currently working as a Logistics Manager in an imports & exports company and pursuing a change in my career through programming.
 
