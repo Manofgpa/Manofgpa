@@ -2,7 +2,9 @@
 
 # Hi there! <img src="https://github.com/Manofgpa/Manofgpa/blob/21ba3cb7328259ff6bb1e5b583fec8b40dae7d7e/wave.gif" width="30px">
 
-My name is Felipe Mano and I'm a software developer. I'm from Rio de Janeiro, Brazil. You can find me on <img src="https://raw.githubusercontent.com/manofgpa/manofgpa/master/wave.gif" width="30px"><a href="https://www.linkedin.com/in/felipemano"/></img>
+My name is Felipe Mano and I'm a software developer. I'm from Rio de Janeiro, Brazil. You can find me on <a href="https://www.linkedin.com/in/felipemano" rel="nofollow">
+<img>
+<a>
 
 <!--
 **Manofgpa/Manofgpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
