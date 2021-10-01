@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/manofgpa/manofgpa/header.jpg 'Header')](https://felipemano.dev/)
+[![Header](https://github.com/Manofgpa/Manofgpa/blob/61ab25bc290d829618079475fdc1b41445d7b5fc/header.jpg 'Header')](https://felipemano.dev/)
 
 # Hi there! <img src="https://github.com/Manofgpa/Manofgpa/blob/21ba3cb7328259ff6bb1e5b583fec8b40dae7d7e/wave.gif" width="30px">
 
