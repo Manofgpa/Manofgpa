@@ -19,7 +19,13 @@ My name is **Felipe Mano**, a passionate software developer from Brazil. I love 
 <br/>
 
 <!--START_SECTION:waka-->
-
+```text
+TypeScript   26 hrs 17 mins  █████████████████████░░░░   83.61 % 
+SCSS         3 hrs 38 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+JSON         35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Other        35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Markdown     11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+```
 <!--END_SECTION:waka-->
 
 [![Manofgpa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manofgpa)](https://github.com/anuraghazra/github-readme-stats)
