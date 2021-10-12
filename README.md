@@ -8,7 +8,7 @@ My name is **Felipe Mano**, a passionate software developer from Brazil. I love 
 
 <br/>
 
-\- 🔭 I’m currently working on [Ignews](https://github.com/Manofgpa/ignews)
+\- 🔭 I’m currently working on [Dev.nnection](https://github.com/Manofgpa/dev.nnection-frontend)
 
 \- 🌱 I’m currently learning everything 🤣
 
@@ -17,6 +17,8 @@ My name is **Felipe Mano**, a passionate software developer from Brazil. I love 
 \- ⚡ Fun fact: I'm a electronic music DJ and producer
 
 <br/>
+
+# 🕓 Weekly coding hours
 
 <!--START_SECTION:waka-->
 ```text
@@ -27,10 +29,6 @@ Other        35 mins         ▒░░░░░░░░░░░░░░░░
 Markdown     11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 <!--END_SECTION:waka-->
-
-[![Manofgpa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manofgpa)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
 
 # 🛠️ Language and Tools
 
