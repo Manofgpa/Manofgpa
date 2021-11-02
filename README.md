@@ -8,7 +8,7 @@ My name is **Felipe Mano**, a passionate software developer from Brazil. I love 
 
 <br/>
 
-\- 🔭 I’m currently working on [Dev.nnection](https://github.com/Manofgpa/dev.nnection-frontend)
+\- 🔭 I’m currently working on [Reborn Festival](https://github.com/manofgpa/reborn-festival)
 
 \- 🌱 I’m currently learning everything 🤣
 
