@@ -22,9 +22,9 @@ My name is **Felipe Mano**, a passionate software developer from Brazil. I love 
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   38 mins         ██████████████████████░░░   88.63 % 
-Cocoa        2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-XML          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+TypeScript   1 hr 14 mins    ███████████████████████▒░   93.04 % 
+Cocoa        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+XML          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 ```
 <!--END_SECTION:waka-->
 
