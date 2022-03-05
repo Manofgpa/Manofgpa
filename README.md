@@ -23,12 +23,12 @@ My name is **Felipe Mano**, a passionate software developer from Brazil. I love 
 <!--START_SECTION:waka-->
 
 ```text
-Python       4 hrs 55 mins   ████████████▓░░░░░░░░░░░░   50.53 %
-JSON         1 hr 56 mins    █████░░░░░░░░░░░░░░░░░░░░   19.96 %
-Markdown     48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-SQL          24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-YAML         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Swift        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Python       7 hrs 50 mins   ███████████████▓░░░░░░░░░   63.31 %
+JSON         1 hr 23 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
+Markdown     1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+SQL          1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+YAML         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Swift        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:waka-->
