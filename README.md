@@ -4,7 +4,7 @@
 
 ## Hi there! <img src="https://github.com/Manofgpa/Manofgpa/blob/21ba3cb7328259ff6bb1e5b583fec8b40dae7d7e/wave.gif?raw=true" width="30px">
 
-My name is **Felipe Mano**, a passionate software developer from Brazil. I love to learn about new technologies and share as much as possible. I'm currently working as a Logistics Manager in an imports & exports company and pursuing a change in my career through programming.
+My name is **Felipe Mano**, a passionate Software Engineer from Brazil. I'm currently working on QiTech, specifically on the credit-as-a-service (CaaS) team, developing and maintaining Taylor-made APIs to receive our client's business-specific data and combining them with machine learning technologies to deliver the best decision done with simple API integration. As a generalist, I build up several solutions working on Backend with Python and NodeJs, Frontend with React and plain Javascript, Mobile Development on iOS and Android with native language, Swift and Java, as well as Hybrid Solutions using Flutter and Ionic. In a few months on Qi, I became solely responsible for the Mobile ecosystem.
 
 <br/>
 
