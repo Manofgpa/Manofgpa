@@ -23,10 +23,10 @@ My name is **Felipe Mano**, a passionate Software Engineer from Brazil. I'm curr
 <!--START_SECTION:waka-->
 
 ```text
-Python       13 hrs 40 mins  █████████████████░░░░░░░░   67.97 %
-JSON         3 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
-Text         2 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
-Other        44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Python       13 hrs 14 mins  ██████████████████▒░░░░░░   73.57 %
+JSON         2 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+Text         1 hr 47 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
+Other        26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
 
 <!--END_SECTION:waka-->
