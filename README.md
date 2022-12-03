@@ -23,12 +23,12 @@ My name is **Felipe Mano**, a passionate Software Engineer from Brazil. I'm curr
 <!--START_SECTION:waka-->
 
 ```text
-Python       5 hrs 35 mins   █████████████▒░░░░░░░░░░░   53.12 %
-Terraform    1 hr 24 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
-JSON         50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
-Bash         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-Java         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-Other        25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Python        7 hrs 35 mins   ███████████████▒░░░░░░░░░   60.72 %
+Terraform     1 hr 28 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+JSON          1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
+Bash          32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Markdown      26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Other         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
 ```
 
 <!--END_SECTION:waka-->
