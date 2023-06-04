@@ -23,7 +23,9 @@ My name is **Felipe Mano**, a passionate Software Engineer from Brazil. I'm curr
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+CocoaPods   8 mins          █████████████████▒░░░░░░░   69.78 %
+Bash        1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
+Other       1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
 ```
 
 <!--END_SECTION:waka-->
